@@ -1,0 +1,9 @@
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/bin/Debug/Plugin.BLE.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/bin/Debug/Plugin.BLE.pdb
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/bin/Debug/Plugin.BLE.Abstractions.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/bin/Debug/Plugin.BLE.Abstractions.pdb
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/obj/Debug/Plugin.BLE.csprojAssemblyReference.cache
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/obj/Debug/Plugin.BLE.csproj.CoreCompileInputs.cache
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/obj/Debug/Plugin.BLE.csproj.CopyComplete
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/obj/Debug/Plugin.BLE.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE/obj/Debug/Plugin.BLE.pdb

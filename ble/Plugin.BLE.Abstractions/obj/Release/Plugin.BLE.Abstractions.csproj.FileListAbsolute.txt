@@ -1,0 +1,6 @@
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Abstractions/bin/Release/Plugin.BLE.Abstractions.XML
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Abstractions/bin/Release/Plugin.BLE.Abstractions.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Abstractions/bin/Release/Plugin.BLE.Abstractions.pdb
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Abstractions/obj/Release/Plugin.BLE.Abstractions.csproj.CoreCompileInputs.cache
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Abstractions/obj/Release/Plugin.BLE.Abstractions.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Abstractions/obj/Release/Plugin.BLE.Abstractions.pdb

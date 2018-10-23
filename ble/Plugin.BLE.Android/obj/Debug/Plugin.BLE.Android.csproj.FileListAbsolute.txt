@@ -1,0 +1,16 @@
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/bin/Debug/Plugin.BLE.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/bin/Debug/Plugin.BLE.pdb
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/bin/Debug/Plugin.BLE.apk
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/bin/Debug/Plugin.BLE-Signed.apk
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/bin/Debug/Plugin.BLE.Abstractions.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/bin/Debug/Plugin.BLE.Abstractions.pdb
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/Plugin.BLE.Android.csprojAssemblyReference.cache
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/res.flag
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/Plugin.BLE.Android.csproj.CoreCompileInputs.cache
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/Plugin.BLE.Android.csproj.CopyComplete
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/Plugin.BLE.dll
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/Plugin.BLE.pdb
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/android/bin/Plugin.BLE.apk
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/R.cs.flag
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/R.txt
+/Users/anand/ucarXamarinCommon/ble/Plugin.BLE.Android/obj/Debug/uploadflags.txt
